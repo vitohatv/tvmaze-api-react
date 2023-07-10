@@ -1,0 +1,26 @@
+.film-name-text {
+    background: rgb(226, 233, 229);
+    width: 290px;
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 10px;
+    cursor: pointer;
+    border: 1px solid black;
+}
+.input-title {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-shadow: 1px 1px #a589ef;
+}
+.input-films {
+    margin: 0 auto;
+    display: block;
+    margin-top: 25px;
+    padding: 10px 10px;
+    background: lavender;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 1px 4px 7px black;
+}
