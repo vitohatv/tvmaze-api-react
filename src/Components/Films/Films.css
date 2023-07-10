@@ -1,0 +1,25 @@
+.films-show-block {
+    width: 800px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    background: lightblue;
+    border: 6px solid #0c0c73;
+    box-shadow: 1px 5px 20px black;
+    padding: 45px;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 70px;
+}
+.film-info {
+    margin-left: 40px;
+}
+.film-name {
+    margin-top: 20px;
+}
+.film-premiered {
+    margin-bottom: 30px;
+}
+.film-summary {
+    font-size: 18px;
+}
